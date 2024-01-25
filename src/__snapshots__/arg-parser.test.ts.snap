@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`parsing parsing set options 1`] = `
+{
+  "plainArgs": [],
+  "success": true,
+  "unparsed": undefined,
+}
+`;
